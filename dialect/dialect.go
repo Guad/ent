@@ -17,7 +17,7 @@ import (
 // Dialect names for external usage.
 const (
 	MySQL    = "mysql"
-	SQLite   = "sqlite3"
+	SQLite   = "sqlite"
 	Postgres = "postgres"
 	Gremlin  = "gremlin"
 )
